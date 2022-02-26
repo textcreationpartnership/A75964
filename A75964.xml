@@ -1,0 +1,276 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The lost sheepe is found under a nevv disguisement of a yong-raw-scull'd vvit, &amp;c. A bold adventure, a new way declared in a further imitation of more domestique boarders and schollers of the feminine gender, in vindication of a pious intention, and christian reliefe of a disconsolate husband, and three innocent young children, for the losse of an imperious revolted wife, and an ungratefull man-servant, lately departed together, or asunder, into the streights of Magellanica, or the West Indies, or some where else unknowne, to trade by their owne selfe wits or wills, in chaundry wares, or cotton-wooll, in flat opposition and dislike of so laudable and generous a designe, &amp;c.</title>
+            <author>Agar, Ben, 17th cent.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75964</idno>
+            <idno type="STC">Wing A757A</idno>
+            <idno type="STC">ESTC R225971</idno>
+            <idno type="EEBO-CITATION">99899678</idno>
+            <idno type="PROQUEST">99899678</idno>
+            <idno type="VID">133741</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75964)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 133741)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2415:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The lost sheepe is found under a nevv disguisement of a yong-raw-scull'd vvit, &amp;c. A bold adventure, a new way declared in a further imitation of more domestique boarders and schollers of the feminine gender, in vindication of a pious intention, and christian reliefe of a disconsolate husband, and three innocent young children, for the losse of an imperious revolted wife, and an ungratefull man-servant, lately departed together, or asunder, into the streights of Magellanica, or the West Indies, or some where else unknowne, to trade by their owne selfe wits or wills, in chaundry wares, or cotton-wooll, in flat opposition and dislike of so laudable and generous a designe, &amp;c.</title>
+                  <author>Agar, Ben, 17th cent.</author>
+               </titleStmt>
+               <extent>15, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed on p. 15: Per me Ben. Agar.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Desertion and non-support --  England --  Early works to 1800.</term>
+               <term>Child support --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:133741:1"/>
+            <p>THE LOST SHEEPE IS FOUND, UNDER A NEW DIS<g ref="char:EOLhyphen"/>GUISEMENT OF A Yong-raw-ſcull'd VVit, &amp;c.</p>
+            <p>A Bold adventure, a new way declared in a further imi<g ref="char:EOLhyphen"/>tation of more domeſtique Boarders and Schollers of the feminine gender, in vindication of a pious intention, and Chriſtian reliefe of a diſconſolate Husband, and three inno<g ref="char:EOLhyphen"/>cent young Children, for the loſſe of an imperious revolted wife, and an ungratefull Man-ſervant, lately departed to<g ref="char:EOLhyphen"/>gether, or aſunder, into the ſtreights of <hi>Magellanica,</hi> or the Weſt Indies, or ſome where elſe unknowne, to trade by their owne ſelfe wits or wills, in Chaundry wares, or Cotton-Wooll, in flat oppoſition and diſlike of ſo laudable and gene<g ref="char:EOLhyphen"/>rous a deſigne, &amp;c.</p>
+            <p>London, Printed. 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:133741:2"/>
+            <pb n="3" facs="tcp:133741:2"/>
+            <head>THE LOST SHEEP IS FOUND, UNDER A NEW DISGUISE<g ref="char:EOLhyphen"/>ment of a young-raw-ſcull'd Wit, &amp;c.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">P</seg>AUL</hi> may plant, and <hi>Apollo</hi> may water, but it is God alone which rendreth the increaſe. The ſandy foundation of my building hitherto muſt be razed, and a firmer timely prepared to erect a new edifice upon. But ſeeing my particular ruine (with too many in the like Cataſtrophe) cannot, nay, muſt not (with times variation) be repaired by the ancient and ordina<g ref="char:EOLhyphen"/>ry rules of Law and Juſtice, which evidently preſages an eminent (or imminent) diſſolution. And therefore beyond the care of theſe outward Tabernacles, the eternall manſion of our ſoules ſhould be thought upon, by a ſure laying another manner, and more firme foundation; building and erecting ſecurely on that bleſſed, and moſt immoveable Rock, <hi>Chriſt Jeſus;</hi> by a daily fa<g ref="char:EOLhyphen"/>brick
+<pb n="4" facs="tcp:133741:3"/>and edification of a Theologicall archiete<g ref="char:EOLhyphen"/>cture of Faith, Hope, and Charity; which ver<g ref="char:EOLhyphen"/>tues are not ſingly attained by humane endea<g ref="char:EOLhyphen"/>vour alone, but through co-operation of Gods holy Spirit (preventing Grace from divine illu<g ref="char:EOLhyphen"/>ſtration perpetually aſſiſting) yet for certain wee may (by induſtry) enlighten and conduct mora<g ref="char:EOLhyphen"/>lity to ſome ſpeciall degree or apprehenſion of ſome hopefull perfection (beginning at youth e<g ref="char:EOLhyphen"/>ſpecially) in the future in one, or all, the chiefe whereof is Chriſtian charity; alwayes intending the morrall good and benefit of others, with (and ſometimes before) our ſelves. Now although my former intendment hath prepared ready for the preſſe, two tracts of another conſequence, and more concerning the publique; a taſte whereof I have lately ſet forth in Print, by way of a Re<g ref="char:EOLhyphen"/>monſtrance, entituled <hi>Clericus Mercati;</hi> of ano<g ref="char:EOLhyphen"/>ther alſo likewiſe ready, for the timely expreſſion of Mortification and Repentance. Foraſmuch as my unhappy and perfidious yoke-fellowes, and co-partners, both male and female, have con<g ref="char:EOLhyphen"/>joyntly made me (ſome other way not to be men<g ref="char:EOLhyphen"/>tioned) more publique then my ſelfe would have it, or deſired; and thereafter framed and ſuted their intentions and purpoſes (though not with my conſent, as they pretend) quite oppoſite to theſe immaculate times (as ſome too preciſely deeme) which need no Repentance now, aſwell as no <hi>Clericus Mercati;</hi> both damned in judge<g ref="char:EOLhyphen"/>ment, as uſeleſſe or fruitleſſe for Church or Com<g ref="char:EOLhyphen"/>mon-wealth;
+<pb n="5" facs="tcp:133741:3"/>I have therefore laid aſide and ſuſpended awhile, both. Tracts and rurall office together, as impertinent, untill the preſent times mend or end with me and mine, and ſo patiently refer my cauſe and needleſſe calling, to the Laws ſupreame, at the laſt and generall Reſurrection. In the meane ſeaſon (not grow deſperate) but aſ<g ref="char:EOLhyphen"/>ſume a ſtedfaſt reſolution (through publique and private diſtemper) to wade through all temporall diſaſters; but firſt, ſubmit and returne to God Almighty, beginning like a yong and hopefull Grammar-Scholar, with <hi>Proximus ſum, &amp;c.</hi> true charity begins at home, &amp;c. Maugre that inſtance of wiſdome and experience, which infallibly de<g ref="char:EOLhyphen"/>noteth <hi>Cor humile faciemque moeſtam, &amp; plagam cordis efficit mulier improba; manus remiſſas &amp; genua ſoluta, quae non conſolatur virum ſuum in an<g ref="char:EOLhyphen"/>guſtia, &amp;c.</hi> Eccleſiaſticus 25. ver. 23.</p>
+            <p>For as much as time and too late experience hath made me ſenſible of every ſillable of this ſacred Text, and ſent home to my habitation (e<g ref="char:EOLhyphen"/>ven to the very doors and poſts of my houſe) a dolefull commentary thereof, yet in pious conſi<g ref="char:EOLhyphen"/>deration, that <hi>Sampſon</hi> (though treacherouſly be<g ref="char:EOLhyphen"/>trayed by <hi>Dalilah</hi>) had ſtrength enough continu<g ref="char:EOLhyphen"/>ed in him afterwards, to ruine his enemies by the ſame meanes they inſnared him; and ſurely the promiſe (through divine ordinance and provi<g ref="char:EOLhyphen"/>dence) is not by the bondwoman, but the free, as our Apoſtle alſo inferreth, &amp;c. <hi>Gal.</hi> 4.24. Let me not therefore (Chriſtian Reader) be deemed too
+<pb n="6" facs="tcp:133741:4"/>confident or arrogant (amid a conjugall conte<g ref="char:EOLhyphen"/>ſtation) to undertake (though not by my ſelfe alone, being the unfortunate husband of an im<g ref="char:EOLhyphen"/>pious and revolted wife) yet by the obſequious helpe of others, pious, vertuous, and expert aſſi<g ref="char:EOLhyphen"/>ſtants that way of my procurement) to breed up and religiouſly educate, three dozen at leaſt of pure Virgins, and yet turne and returne them all ſafe and ſecure to their ſeverall indulgent Pa<g ref="char:EOLhyphen"/>rents, after foure or five yeares exerciſe of their young and tender inclinations, as chaſt and pure, and ſurely more perfect and cleare, then they came or were delivered into my charge, maugre all thoſe imputations of my frozen imbecilitie that way, caſt upon me by my luſtfull wife, who (after almoſt twentie yeares experience) declares me ſcarce ſo able for her ſatisfaction as an Evenuch, or for edu<g ref="char:EOLhyphen"/>cation (as well as procreation) of youth male or female, more impotent then a dunce or a diſguiſed Schoolemaſter, loſt utterly for want of wit, or defect of ſuch another rurall office, having al<g ref="char:EOLhyphen"/>moſt conſumed his whole ſubſtance upon his wives wit, and her two leav'd booke, whereon he hath poared himſelfe ſo dull and blind, that halfe his revenue left can hardly procure right Chriſtall ſpectacles, to contrive a cloſe, way to pay his debts to her minion, or avoyd the ac<g ref="char:EOLhyphen"/>knowledgement of a diſguiſed or diſcontented Cuckold, unleſſe the revolted wife would have
+<pb n="7" facs="tcp:133741:4"/>timely become a convert to returne on her bare knees to aske pardon of her husbands jealouſie, and not her owne impudency, and therefore po<g ref="char:EOLhyphen"/>litikely he turned his Clerke out of doores after his rurall office, being firſt in his debt 500. pound by his wives procurement, that ſhe might (in pi<g ref="char:EOLhyphen"/>ous affection of juſtice) follow after him, well knowing before hand, that her ſelfe alone, nei<g ref="char:EOLhyphen"/>ther could nor would performe the duties of a loyall wife, unleſſe the man were ſometimes rea<g ref="char:EOLhyphen"/>dy provided to take off what the maſter had layd on; but miſtake me not, I meane in dry beating, which ſhe could no longer endure from her hus<g ref="char:EOLhyphen"/>band at no time, but rathera threefold bum-baſt<g ref="char:EOLhyphen"/>ing from the abler man, her husbands Clerke, at all times at home or abroad, more willing al<g ref="char:EOLhyphen"/>wayes to ſteere her floating veſſell by her mans Rudder then her husbands Maineſaile or Tack<g ref="char:EOLhyphen"/>ling either, which made her at laſt cut Cables and ride away by ſtealth in Church time, for feare of too ſpeedy purſuite by an old, lame, and laſie husband. But to avoyd prolixity in this ambiguous and incurable malady, and to congra<g ref="char:EOLhyphen"/>tulate with their conjoynt and more feaſable de<g ref="char:EOLhyphen"/>ſignes, whatſoever, or whereſoever pretended, or farther intended betweene themſelves, or aſun<g ref="char:EOLhyphen"/>der, as they cunningly ſeeme to be for a time of future advantage: I dedicate as well to them, as theſe wavering times, this my ruſtique muſe. <hi>Viz.</hi>
+            </p>
+            <pb n="8" facs="tcp:133741:5"/>
+            <q>
+               <l>Though wives comply not with their husbands ſtraine,</l>
+               <l>To caſtigate young girles, muſt age restraine?</l>
+               <l>No ſuer, for education (man's) evermore the beſt;</l>
+               <l>To inſtruct and point them home to heavenly reſt.</l>
+               <l>Although the younglings thinke the old ones fooles,</l>
+               <l>Yet th'oldeſt know more young ones whipt in ſchooles.</l>
+               <l>All youth is ranging, till find themſelves more wiſe,</l>
+               <l>Old ones experience, for them's in ſtead of eyes.<note place="margin">Numb. 10.31. Eccleſ. 25.6.</note>
+               </l>
+            </q>
+            <p>Notwithſtanding all the inſultant premiſes of an ungracious wife; I have had by two wives, ſix children; though now (through lazie negligence or other accidentall impediment) I have ſo ſel<g ref="char:EOLhyphen"/>dome, and timerouſly frequented the two-leav'd fore-dore of my ſtately habitation; that my pre<g ref="char:EOLhyphen"/>ſent wife (with ſome other of that fleeting ſex) hath been unwillingly conſtrained to run tho<g ref="char:EOLhyphen"/>row the back-yard of Concupiſcence behinde her husbands great houſe, to perſwade her luſty man to perform his Maſters office at home and abroad, that ſhe may the better enjoy her owne husbands company, who hath been hitherto de<g ref="char:EOLhyphen"/>tained from her, and bated of her own and due benevolence, three quarters, at leaſt, of every whole yeare, for almoſt twenty yeares together. Beſides, to aggravate the long tyranny ſhe hath endured in that kinde or nature, ſhe hath to ſun<g ref="char:EOLhyphen"/>dry perſons deſperately ſworn and vowed to re<g ref="char:EOLhyphen"/>turne no more (like a loyall and obedient wife) without her man to wait on his old Maher for re<g ref="char:EOLhyphen"/>demption of his former neglects and eſcapes,
+<pb n="9" facs="tcp:133741:5"/>within his firſt covenant, without a livery of two Laces behind and before, as the Clerke of the Markets man, proudly and reproachfully taunted ſome of the Juſtices of the peace in <hi>Cornewall,</hi> as alſo (not long ſince) nearer hand at <hi>London.</hi> But wot you the reaſon (courteous reader) of ſo ſuddaine and ſtrange alteration of late betwixt me and my wife; my aſſociat in office and fellow Clerke, it is (may it pleaſe you) as well double as doubtfull, the one, if her husbands rurall office with its ruſtique authoritie, ſhould riſe in judge<g ref="char:EOLhyphen"/>ment againſt her and her minion, for their con<g ref="char:EOLhyphen"/>joynt, corrupt, or indirect making the ſlave away at an under value, without her husbands privi<g ref="char:EOLhyphen"/>tie, being his ſole and onely ſubſtance; then albeit the office never returne more in <hi>ſtatu quo, &amp;c.</hi> ſhe is ſure of a more loving husband in <hi>poſſe,</hi> then ever the preſent, or preterimperfect tenſe, of her Verbe could yet decline, or indeed ever meanes hereafter, in her husbands well appoin<g ref="char:EOLhyphen"/>ted new female ſchoolehouſe, in the Latine (or lackwits) tongue eſpecially. A ſecond reaſon may be inferred <hi>(ex congruo)</hi> for apt and ſeeming complaint with her husbands purpoſe and lauda<g ref="char:EOLhyphen"/>ble deſigne in preſent agitation, to teach the young Damſells and Gentlewomen (bourding ſchollers in her husbands houſe) to write true Engliſh or French, in a baſtard Komane hand, her ſelfe having ſo long time approved his cha<g ref="char:EOLhyphen"/>racter to be very legible, and ſo contiguous to diſcipline and good nurture of Pupils (or rather
+<pb n="10" facs="tcp:133741:6"/>puppets) that in very deed, ſhe can hardly (though her lame husband may ſtill if he liſt) be well or ill underſtood without him. Nevertheleſſe, dread not you, my tender, innocent, and feminine ſchol<g ref="char:EOLhyphen"/>lers, let not the thought of theſe diſaſterous times, or triviall ſuggeſtions affright you, nor your in<g ref="char:EOLhyphen"/>dulgent or timerous parents; for I have under<g ref="char:EOLhyphen"/>taken next under the Almightie) the ſole tuition and ſafe protection of every one of you, and am ſteadfaſtly purpoſed to truſt neither of them (him or her, nor any other of their party or confederates) with any your writing tackles, much leſſe any o<g ref="char:EOLhyphen"/>ther inſtruments of your diſcipline, mine own pen (I praiſe God, how ever depraved by them and their complices onely) hath yet incke and vertue enough to ſupply ſome particular defects of my hired teachers (beſide ſuperintendency) to guide your right hands to the untainted paper of chaſt integritie and ſinceritie of life and example; while both your interiall and exteriall faculties are ſe<g ref="char:EOLhyphen"/>verally exerciſing their ſeverall functions and operations by turne and courſe, aſſiduouſly pur<g ref="char:EOLhyphen"/>ſuing thoſe ends and exigents, for which you came, and particularly your parents acquire, and your ſelves hope and aſpire unto; whereof I pur<g ref="char:EOLhyphen"/>poſe (for the publike good, as for my owne and childrens better ſubſiſtance) according to a more ſuccinct ſubſcription &amp; deſcription, God aſſiſting by my ſelfe and others, to be a vigilant and ſedu<g ref="char:EOLhyphen"/>lous profeſſor; and therefore by this ſucceeding
+<pb n="11" facs="tcp:133741:6"/>breefe, or intimation, I referre the well deſpoſed, to try if they luſt,
+<q>
+                  <l>And then conferre truſt,</l>
+                  <l>Who (hence with all) muſt</l>
+                  <l>Returne to his duſt,</l>
+                  <l>Thence riſe with the juſt—One to live with</l>
+                  <l>Him for evermore, <hi>Amen.</hi>
+                  </l>
+               </q>
+            </p>
+            <p>THere is lately erected, within a private, healthfull, and pleaſant houſe, ſituate in <hi>Kingstone</hi> upon Thames, in the County of <hi>Surrey,</hi> a private Schoole or Nurſery, for the ge<g ref="char:EOLhyphen"/>nerall education of female youth only, at, or from the age of eight yeares, or thereabouts, with all convenient and delightfull appurtenances there<g ref="char:EOLhyphen"/>unto belonging, and therewithall provided of men and women, expert, as well for the teaching of Latine, French, and writing by Letters and Cyphers, as alſo for other Morrall, Civill, and Religious diſcipline, with the teaching of ſundry ſorts of Needle-work, Tent-worke, or the like, Muſicall inſtruments, and Dancing. If any per<g ref="char:EOLhyphen"/>ſon of what eſtate or degree ſoever, be thereunto diſpoſed, may have their daughters placed, boarded, and taught, at, and for anſwerable rates or rents, <hi>per annum;</hi> and ſhall be alſo therewith<g ref="char:EOLhyphen"/>all daily ſupplyed (with much ſafety and ſecuri<g ref="char:EOLhyphen"/>ty) by other needfull and fruitfull accommoda<g ref="char:EOLhyphen"/>tions.</p>
+            <closer>
+               <signed>Per me, Ben: Agar.</signed>
+            </closer>
+         </div>
+         <div type="text">
+            <pb n="12" facs="tcp:133741:7"/>
+            <head>An humble Remonſtrance to the Honourable houſe of Commons aſſembled in Parliament, for the fur<g ref="char:EOLhyphen"/>therance and eſtabliſhment of a neceſſary and lauda<g ref="char:EOLhyphen"/>ble deſigne in hand for the publique good, but hi<g ref="char:EOLhyphen"/>therto much hindered, moleſted, and impeached, by an ungracious Obſtacle of an adulterate and ſhame<g ref="char:EOLhyphen"/>leſſe wife, &amp;c.</head>
+            <p>IN which diſaſterous and untimely accident, the husband of the foreſaid wife retiring him<g ref="char:EOLhyphen"/>ſelfe within his houſe, ſince the beginning of October laſt; at which time this Authors wife wilfully departed from her husband and children to follow her man, they both yet conſpiring a<g ref="char:EOLhyphen"/>gainſt the husband; nevertheleſſe to avoid diſ<g ref="char:EOLhyphen"/>content, or fatall deſpaire (the iſſues of her deſire) the husband hath ſpent his time ſince, in the com<g ref="char:EOLhyphen"/>poſure of theſe ſeverall Tracts, ready prepared for the Preſſe; the ſeverall arguments and con<g ref="char:EOLhyphen"/>tents whereof hereafter more amply enſueth: <hi>viz.</hi>
+               <q>
+                  <l>Wherein ſome perſons may conceive and finde,</l>
+                  <l>The various explications of perplexed minde. <hi>viz.</hi>
+                  </l>
+               </q>
+            </p>
+            <div type="part">
+               <head>The ſundry and ſeverall arguments particula<g ref="char:EOLhyphen"/>rized in Proſe and Meeter. <hi>viz.</hi>
+               </head>
+               <pb n="13" facs="tcp:133741:7"/>
+               <p n="1">1. A Swarme of Bees fitted and provided for the Hive of Propheſies and Predictions, The <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>logicall and Morrall, concerning ſundry events to be expected in the laſt Ages of the world; with other ſmaller Tracts, and Diſcourſes, both in Proſe and Verſe, profitable and delightfull to be knowne; together with ſundry Apothegmes col<g ref="char:EOLhyphen"/>lected from King <hi>James</hi> his Table-talke in his life time, both in <hi>England</hi> and <hi>Scotland,</hi> ſince his happy acceſſe to the Crowne of <hi>England,</hi> &amp;c.</p>
+               <lg>
+                  <head>Item.</head>
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="2"/> FOr Morrall honeſt; and for mongrell wife,</l>
+                  <l>For other things belonging to this life. <hi>viz.</hi>
+                  </l>
+                  <l>For Wit, or Wiſdome, or ſuch ſublimer things,</l>
+                  <l>Which cumber life below, which hang on ſupreame ſtrings.</l>
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="4"/> For man and wife (Aſſiſes ought be had)</l>
+                  <l>Reciprocall invectives, as well for good as bad; <hi>viz.</hi>
+                  </l>
+                  <l>Firſt, whoriſh women, and their exultations,</l>
+                  <l>To quit them quaintly, ſelect evacuations;</l>
+                  <l>For Meer-maids ſlie, and ſubtile attemptations,</l>
+                  <l>Their privy tiſements, and dangerous inſinuations.</l>
+                  <l>Their Crocodiles teares, and Syrens adulations.</l>
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="5"/> For table-talk, to help maintaine diſcourſe,</l>
+                  <l>Some for the better ſort, ſome others for the worſe.</l>
+                  <l>For Propheſies, and their nice explanations;</l>
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="6"/> So viſions, dreames, and their quick explications,</l>
+                  <l>By various Wayes, doubtleſſe interpretations.</l>
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="7"/> For godly ſolace, and ſuch contemplations,</l>
+                  <l>Some pithy conſort, devout, ſhort ejaoulations,</l>
+                  <l>Some ſacred vowes, and pious meditations</l>
+                  <l>For Churches foes, ſome Chriſtian imprecations:</l>
+                  <pb n="14" facs="tcp:133741:8"/>
+                  <l>The like for friends, with dolefull invocations,</l>
+                  <l>Some Pſalmes inverted, meete for conſolations,</l>
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="8"/> Quaint ſolliloquies meete for nights or dayes,</l>
+                  <l>Predictions calculate, for Churches holy wayes.</l>
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="9"/> Some Dialogues, Anagrams, Epigrams, to raiſe</l>
+                  <l>A plot for enterludes, deſerving Lawrell bayes.</l>
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="10"/> An Embleme poſtur'd with a new diſguiſe,</l>
+                  <l>T' inſtruct the wits, perambulate more wiſe.</l>
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="11"/> A microcoſme explain'd in circular rime,</l>
+                  <l>For young and old to know, t' redeeme the time.</l>
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="12"/> Some problems clos'd in letters, pen'd in proes,</l>
+                  <l>And ſuch compos'd from exigents in Wees,</l>
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="13"/> And then againe, more fancies to diſperſe,</l>
+                  <l>Inverted proes into ſatyrique verſe.</l>
+                  <l>For theſe and like, as th' author ſhall be able,</l>
+                  <l>(To make for good men) wives more comfortable</l>
+                  <l>Againe (for bad wives) men more ſuſpectable,</l>
+                  <l>Leaſt both in th' end decline moſt deſpicable,</l>
+                  <l>Diſeaſes feſtered, prove not incurable.</l>
+                  <l>Hence therefore dreame (for each) things profitable.</l>
+                  <l>Aſſizes due 'mongſt all, all muſt appeare,</l>
+                  <l>Howſo'ere diſguis'd, or now baffled here,</l>
+                  <l>For which performance all ſhould be charitable,</l>
+                  <l>With prayers to God, and geſtures anſwerable.</l>
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="14"/> For due aſſize, that all be conformable,</l>
+                  <l>To men within, to beaſt without in ſtable.</l>
+                  <l>That ſuch at leaſt (when all have courſt the round)</l>
+                  <l>For upright dealings may in Chriſt be found;</l>
+                  <l>So found in him, when God himſelfe ſhall come,</l>
+                  <l>Each mortall may receive deſerved doome.</l>
+               </lg>
+               <lg>
+                  <l>All bleſſings flow from God alone,</l>
+                  <l>Thrice bleſſed three in one.</l>
+               </lg>
+               <closer>Amen.</closer>
+            </div>
+            <div type="part">
+               <pb n="15" facs="tcp:133741:8"/>
+               <lg>
+                  <l>To ſet forth all theſe tracts at once, to publike view,</l>
+                  <l>Cannot be brought to paſſe;</l>
+                  <l>But when for truthes (they all) ſhall prove as true,</l>
+                  <l>As cleare perſpective glaſſe.</l>
+                  <l>Then render choyce and change to all, quaint ſtraines of wit</l>
+                  <l>M' obtaine a publike prayſe,</l>
+                  <l>As cauſe appeares abroad, give all ſome taſt of it,</l>
+                  <l>May dolefull ſpirits raiſe.</l>
+               </lg>
+               <closer>
+                  <signed>Per me <hi>Ben. Agar.</hi>
+                  </signed>
+               </closer>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
